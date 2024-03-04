@@ -19,6 +19,6 @@ class Frontend {
 	 */
 	public function __construct() {
 
-		new frontend\Shortcode();
+		new Frontend\Shortcode();
 	}
 }
