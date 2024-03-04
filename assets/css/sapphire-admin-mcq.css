@@ -1,0 +1,26 @@
+.sphr-mcq-form{
+	padding: 2%;
+	justify-content: center;
+	box-sizing: border-box;
+}
+.sphr-mcq-form .sphr-mcq-field{
+	padding-top: 5px;
+	padding-bottom: 5px;
+	box-sizing: border-box;
+}
+.sphr-mcq-form .col-20 {
+	width: 19%;
+	display: inline-block;
+	font-size: 16px;
+	text-align: left;
+}
+.sphr-mcq-form .col-80 {
+	width: 70%;
+	display: inline-block;
+}
+.col-80 {
+	font-size: 16px;
+} 
+.col-20 .textarea {
+	margin-top: 0;
+}

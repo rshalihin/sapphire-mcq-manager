@@ -1,0 +1,16 @@
+.ans-btn .full-width {
+    width: 100%;
+    text-align: left;
+    margin-bottom: 20px;
+  }
+.ans-btn .ans-bdr {
+    border: 1px solid #333;
+    border-radius: 5px;
+    padding: 20px 5px;
+    margin-top: -25px;
+    margin-bottom: 20px;
+  }
+  .question .smgr-ngt{
+    margin-top: -20px;
+    font-size: 14px;
+}
