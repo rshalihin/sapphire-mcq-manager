@@ -41,7 +41,7 @@ Sapphire MCQ Manager plugin allows to creation of Multiple Choice Questions with
 [sapphire-mcq]
 
 2. Show a specific category question (e. g. common) -
-[sapphire-mcq category="common"] or [sapphire-mcq offset=5 category="math", "common"]
+[sapphire-mcq category="common"] or [sapphire-mcq offset=5 category="math,common"]
 
 3. Want a specific number of questions per page? - copy this code and change the number -
 [sapphire-mcq offset=5]

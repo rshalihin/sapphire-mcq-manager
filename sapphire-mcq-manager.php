@@ -9,7 +9,7 @@
  *
  * @wordpress-plugin
  * Plugin Name:       Sapphire MCQ Manager
- * Description:       Multiple choice Question Test plugin for educational perpous.
+ * Description:       Multiple choice Question Test plugin for educational perpous. Use to Shortcode to show mcq list [sapphire-mcq category="English"].
  * Version:           1.0.0
  * Requires at least: 5.2
  * Requires PHP:      7.2
