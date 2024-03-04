@@ -28,7 +28,7 @@ class CustomPost {
 	 * @return void
 	 */
 	public function register_post_type() {
-		
+
 		$smcq_capability = apply_filters( 'smcq_capability', 'manage_options' );
 		$show_ui         = current_user_can( $smcq_capability ) ? true : false;
 
@@ -48,7 +48,7 @@ class CustomPost {
 				'show_ui'   => $show_ui,
 				'menu_icon' => 'dashicons-yes-alt',
 				'supports'  => array( 'title' ),
-			),
+			)
 		);
 
 		// Register Taxonomy in MCQ Test Custom post.
